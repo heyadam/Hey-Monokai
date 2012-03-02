@@ -10,7 +10,7 @@ Made by [@heyadam](http://twitter.com/heyadam).
 
 Move into to ~/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default
 
-Easy terminal commands: 
+Easy terminal commands:  
 `git clone git@github.com:heyadam/Hey-Monokai.git`  
 `cd Hey-Monokai/`  
 `cp Hey\ Monokai.tmTheme ~/Library/Application\ Support/TextMate/Themes/`  
@@ -19,7 +19,7 @@ Easy terminal commands:
 
 Move into to ~/Library/Application Support/Sublime Text 2/Packages/Color Scheme - Default
 
-Easy terminal commands: 
+Easy terminal commands:  
 `git clone git@github.com:heyadam/Hey-Monokai.git`  
 `cd Hey-Monokai/`  
 `cp Hey\ Monokai.tmTheme ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Color\ Scheme\ -\ Default/`

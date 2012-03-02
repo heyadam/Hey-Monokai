@@ -4,4 +4,4 @@ Higher contrast and more readable verison of Monokai for Textmate and Sublime Te
 
 Made by [@heyadam](http://twitter.com/heyadam).
 
-![Screenshot](screenshot.png "Screenshot")
+![Screenshot](http://i.imgur.com/dH2nV.png "Screenshot")
